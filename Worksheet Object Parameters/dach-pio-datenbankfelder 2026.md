@@ -1,4 +1,4 @@
-[cwd_plug-in_objects_parameters (1).md](https://github.com/user-attachments/files/26240890/cwd_plug-in_objects_parameters.1.md)# Plug-in Parameter Übersicht
+# Plug-in Parameter Übersicht
 
 ## Build-Information
 

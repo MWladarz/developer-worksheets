@@ -5,10 +5,14 @@
 > **Version:** Vectorworks 2026 Update 4 (Build 854846)
 
 _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklappen._
+
+
 <details>
 <summary><strong>Raum (Localized) / Space(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
+|---|---|---|
 | Config | __NNA_DO_NOT_CHANGE | Pop-Up |
 | Name | __NNA_DO_NOT_CHANGE | Text |
 | Number | __NNA_DO_NOT_CHANGE | Text |
@@ -391,6 +395,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Fenster (Localized) / Window CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Fensterbreite | Gewählte Breite | Dimension |
 | Fensterhöhe | Gewählte Höhe | Dimension |
 | Brüstungshöhe | Brüstungshöhe (gem. Einstellungen) | Dimension |
@@ -691,6 +696,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Treppe (Localized) / Stairs CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | ControlPoint01X | X Text Text 1 | X Coordinate |
 | ControlPoint01Y | Y Text Text 1 | Y Coordinate |
 | ControlPoint02X | X Text Lauf 1 | X Coordinate |
@@ -764,6 +770,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Lichtschacht (Localized) / Light Well CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Insert Position | Einfügepunkt | Pop-Up |
 | Advertisement | Anzeigeart | Pop-Up |
 | 2D Representation | 2D Darstellung | Pop-Up |
@@ -846,6 +853,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Wandbild (Localized) / Picture Frame CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | hanging height | Aufhängehöhe | Dimension |
 | insertion point | Einfügepunkt | Pop-Up |
 | commit to | Festlegen von | Pop-Up |
@@ -887,6 +895,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Pflanze (Localized) / PflanzenDB CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Eigener Name | Eigener Name | Static Text |
 | Beschriftung anzeige |  | Boolean |
 | Text |  | Text |
@@ -900,6 +909,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Pflanze (Fläche) (Localized) / PflanzenDB Pfad CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Eigener Name | Eigener Name | Static Text |
 | Beschriftung anzeige |  | Boolean |
 | Text |  | Text |
@@ -919,6 +929,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Pflanze (Reihe) (Localized) / Reihenpflanzung Regen CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Eigener Name | Eigener Name | Static Text |
 | Beschriftung anzeige |  | Boolean |
 | Text |  | Text |
@@ -933,6 +944,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Pflanze (Verband) (Localized) / Verbandspflanzung Regen CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Eigener Name | Eigener Name | Static Text |
 | Beschriftung anzeige |  | Boolean |
 | Text |  | Text |
@@ -947,6 +959,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Schlitze Durchbrüche Classic (Localized) / Break Opening CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | m_Art_Auswahl | Art | Pop-Up |
 | Delta_x | ∆x | Dimension |
 | Delta_y | ∆y | Dimension |
@@ -965,6 +978,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Vermessungspunkt (Localized) / Stake Object(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Mode | Eigenschaft | Pop-Up |
 | Site Model | Geländemodell | Pop-Up |
 | Style | 2D–Plan Draufsicht | Pop-Up |
@@ -1021,6 +1035,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Hilfslinie (Localized) / Guide Line CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | LengthInMM | Länge in mm | Number |
 | Class |  | Text |
 | methode | Methode | Integer |
@@ -1030,6 +1045,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Hyperlink (Localized) / Hyperlink CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | function | Funktion | Static Text |
 | target | Ziel | Static Text |
 | linkstate | Link Defekt | Static Text |
@@ -1061,6 +1077,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Mengennachweis (Localized) / Proof of Masses CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Dokumentationsart | Dokumentationsart | Pop-Up |
 | Dokumentationsart3D | Dokumentationsart | Pop-Up |
 | Flaeche mit einf Doku | Fläche | Radio Buttons |
@@ -1095,6 +1112,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Kantenausbildung (Localized) / Edge Detail CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | LineLength | Länge | Dimension |
 | Plattenstärke | Plattenstärke | Dimension |
 | Ausführung | Ausführung | Pop-Up |
@@ -1151,6 +1169,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Geländer/Zaun Classic (Localized) / Railing CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Component | Anzeigeart | Pop-Up |
 | Height Point 1 | Höhe Punkt 1 | Dimension |
 | Height Point 2 | Höhe Punkt 2 | Dimension |
@@ -1382,6 +1401,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Rechtwinkelbemaßung (Localized) / Perpendicular Dimension CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | dimension standard | Bemaßungsstandard | Pop-Up |
 | alignment dim text | Ausrichtung Maßtext1 | Pop-Up |
 | postition dim text | Ausrichtung Maßtext2 | Pop-Up |
@@ -1409,6 +1429,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Tür (Localized) / Door CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Türbreite | Gewählte Breite | Dimension |
 | Türhöhe | Gewählte Öffnungshöhe | Dimension |
 | Form | Form | Pop-Up |
@@ -1718,6 +1739,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Gebäude (Localized) / Building CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | building form | Gebäudeform | Pop-Up |
 | delta width | Länge ∆x | Dimension |
 | delta length | Breite ∆y | Dimension |
@@ -1779,6 +1801,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Gebäude eigene Form (Localized) / Custom Building CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | building form | Gebäudeform | Pop-Up |
 | delta width | Länge ∆x | Dimension |
 | delta length | Breite ∆y | Dimension |
@@ -1839,6 +1862,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Maßstabsbalken (Localized) / Scalebar CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | ScaleBarStyle | Stil | Pop-Up |
 | ScaleBarBackgrd | Weiße Hintergrundfüllung | Boolean |
 | ScaleBarLDef | Definition Länge | Pop-Up |
@@ -1868,6 +1892,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Dämmung (Localized) / Insulation CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | InsulationTypePop | Typ | Pop-Up |
 | InsulationThicknessEd | Dicke | Dimension |
 | InsulationLeadLinePos | Leitlinie | Pop-Up |
@@ -1915,6 +1940,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Gefälledämmung (Localized) / Insulation Sloped CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | InsulationTypePop | Typ | Pop-Up |
 | SlopeInsulationFirstPop | Grundwert 1 | Pop-Up |
 | SlopeInsulationSecondPop | Grundwert 2 | Pop-Up |
@@ -1957,6 +1983,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Rampe (Localized) / Ramp CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | RampForm | Rampe Form | Pop-Up |
 | RampDirection | Rampe Richtung | Pop-Up |
 | RampBuildingStyle | Rampe Bauart | Pop-Up |
@@ -2164,6 +2191,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Gefälle Grundriss (Localized) / Grade CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Hhe Punkt 1 | Höhe Punkt 1 | Dimension |
 | Hhe Punkt 2 | Höhe Punkt 2 | Dimension |
 | Einstellungen | Einstellungen Punkte | Pop-Up |
@@ -2219,6 +2247,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Geländeschnittlinie (Localized) / Site Model Section Line CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Bezeichnung | Bezeichnung | Pop-Up |
 | Geländeschnittlinie als Fläche | Geländeschnittlinie als Fläche | Boolean |
 | Fläche | Fläche | Pop-Up |
@@ -2230,6 +2259,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Baugrube Aufschüttung (Localized) / Excavation CW(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Höhe | Höhe Sohle | Dimension |
 | Gefälleeingabe | Gefälleeingabe | Pop-Up |
 | Gefälle | Gefälle Sohle | Number |
@@ -2243,6 +2273,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Abzugsfläche 2D (Localized) / AddAreaModifierToSpace(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | SubFromSpace | Abzug von Raumfläche | Pop-Up |
 | SubFromSpaceCustom | Eigen | Number |
 | SubArea | Gerechnete Fläche | Number |
@@ -2251,6 +2282,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Elektroinstallation (Localized) / ElectricalObject(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Version | __Version | Integer |
 | OriginOffsetAlign | Positon Einfügepunkt | Integer |
 | OriginOffset | Breite Referenzobjekt | Dimension |
@@ -2283,6 +2315,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Elektrische Kombination (Localized) / ElectricalComponent(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Version | __Version | Integer |
 | UID | __UID | Text |
 | __PrefStyleID |  | Symbol Definition |
@@ -2315,6 +2348,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Elektrisches Bauteil (Localized) / ElectricalItem(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Version | __Version | Integer |
 | UID | __UID | Text |
 | __PrefStyleID |  | Symbol Definition |
@@ -2350,6 +2384,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Profillinie (Localized) / ProfileAxis(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Version |  | Integer |
 | Name | Name | Text |
 | ProfileCount | Anzahl Profile | Static Text |
@@ -2371,6 +2406,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Querprofile (Localized) / CrossProfile(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Version |  | Integer |
 | Type | __Type | Static Text |
 | ResetMode | __ResetMode | Static Text |
@@ -2450,6 +2486,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Aussparung (Localized) / Recess(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | __Version |  | Integer |
 | __GeneratedType |  | Text |
 | InComponent | In Bauteil | Boolean |
@@ -2511,6 +2548,7 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 <summary><strong>Geländeschnitt (Localized) / TerrainSection(Universal)</strong></summary>
 
 | Record Universal | Record Localized | Typ |
+|---|---|---|
 | Version |  | Integer |
 | Type | __Type | Static Text |
 | ResetMode | __ResetMode | Static Text |

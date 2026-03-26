@@ -12,7 +12,6 @@ _Klicken Sie auf ein Plug-in, um die zugehörigen Parameter ein- oder auszuklapp
 
 | Record Universal | Record Localized | Typ |
 |---|---|---|
-|---|---|---|
 | Config | __NNA_DO_NOT_CHANGE | Pop-Up |
 | Name | __NNA_DO_NOT_CHANGE | Text |
 | Number | __NNA_DO_NOT_CHANGE | Text |
